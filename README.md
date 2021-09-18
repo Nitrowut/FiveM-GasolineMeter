@@ -24,3 +24,4 @@ ensure FiveM-GasolineMeter
 - 🔗 https://github.com/esx-community/fivem-speedometer
 
 [speedo]https://i.imgur.com/feCrJRv.png
+[[https://i.imgur.com/feCrJRv.png|alt=octocat]]
