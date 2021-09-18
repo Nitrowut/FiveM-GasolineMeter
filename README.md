@@ -23,4 +23,4 @@ ensure FiveM-GasolineMeter
 - This script is rework of FiveM-Speedometer
 - 🔗 https://github.com/esx-community/fivem-speedometer
 
-![default](https://i.imgur.com/feCrJRv.png) default
+![default](https://i.imgur.com/feCrJRv.png)
