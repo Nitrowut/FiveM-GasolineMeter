@@ -21,4 +21,4 @@ ensure FiveM-GasolineMeter
 
 🪙 Credits
 - This script is rework of FiveM-Speedometer
-- 🔗 Link: https://github.com/esx-community/fivem-speedometer
+- 🔗 https://github.com/esx-community/fivem-speedometer
