@@ -18,3 +18,7 @@ ensure FiveM-GasolineMeter
 🧑‍🔧 How to change Gasolinemeter location
 1. Go to "FiveM-GasolineMeter\skins\default.lua"
 2. Change "centerCoords" to what you want.
+
+🪙 Credits
+This script is rework of FiveM-Speedometer
+- Link: https://github.com/esx-community/fivem-speedometer
